@@ -1,0 +1,5 @@
+# cabal sandboxes
+*.cabal-sandbox
+
+# temp files
+*.swp
